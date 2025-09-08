@@ -98,6 +98,6 @@ public class Shell {
             } catch (Exception e) {
                 e.printStackTrace();
             }
-        } // while (scanner.hasNextLine());
+        }
     }
 }
